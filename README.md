@@ -1,3 +1,8 @@
+[Portfolio](https://past-soccer-023.notion.site/Portfolio-f26d97e722b545d29753d29fc5f10ca7)
+
+
+<!---
+
 - 👋 Hi, I’m @m02uku
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 m02uku/m02uku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
