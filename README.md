@@ -6,7 +6,7 @@ I am a Japanese graduate student specializing in the **theoretical analysis of l
 
 With a keen interest in **data science**, my focus lies in **phonological data**, which diverges somewhat from popular natural language processing (morpho-syntactic processes).
 
-![1544078504.png](Portfolio%20f26d97e722b545d29753d29fc5f10ca7/1544078504.png)
+![1544078504.png](data/1544078504.png)
 
 ---
 
@@ -14,7 +14,7 @@ With a keen interest in **data science**, my focus lies in **phonological data**
 
 ### Skills
 
-[Untitled Database](Portfolio%20f26d97e722b545d29753d29fc5f10ca7/Untitled%20Database%209743dcf58451431dbbf890681a15ab82.csv)
+[Untitled Database](data/Untitled%20Database%209743dcf58451431dbbf890681a15ab82.csv)
 
 ### Areas of Expertise
 
@@ -56,7 +56,7 @@ With a keen interest in **data science**, my focus lies in **phonological data**
 
 - 鹿児島方言複合名詞アクセントの新旧比較：最適性理論を用いた分析 [A Comparative Analysis of Old and New Compound Noun Accents in Kagoshima Dialect: An Optimality Theory Approach] (Master’s thesis, 2023)
     
-    [paper](Portfolio%20f26d97e722b545d29753d29fc5f10ca7/masters_thesis.pdf)
+    [paper](data/masters_thesis.pdf)
     
 
 ---
