@@ -1,6 +1,6 @@
-<p><a href="#"><img src="https://komarev.com/ghpvc/?username=m02uku&color=00A806"></a></p>
-
 <div align="center">
+
+<p><a href="#"><img src="https://komarev.com/ghpvc/?username=m02uku&color=00A806"></a></p>
 
 <h2>&lt; Stats &gt;</h2>
 
